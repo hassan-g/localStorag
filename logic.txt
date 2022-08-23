@@ -1,0 +1,6 @@
+--- style 
+--- bring buttons and addEventLisetner in its
+--- add to local storge
+--- check itme
+-- delete itme by name
+--- show itme
